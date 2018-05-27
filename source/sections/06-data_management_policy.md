@@ -1,18 +1,14 @@
 # 6. Data Management Policy
 
-Datica has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) stored in conjunction with Datica Add-ons and for PaaS Customers utilizing our Backup Service. This policy, and associated procedures for testing and restoring from backup data, do not apply to PaaS Customers that do not choose Datica Backup Service. The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all systems used by Datica.
+Textractor has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) stored in conjunction with Textractor's Customers. The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all systems used by Textractor.
 
-Data backup is an important part of the day-to-day operations of Datica. To protect the confidentiality, integrity, and availability of ePHI, both for Datica and Datica Customers, complete backups are done daily to assure that data remains available when it needed and in case of a disaster.
+Data backup is an important part of the day-to-day operations of Textractor. To protect the confidentiality, integrity, and availability of ePHI, both for Textractor and Textractor Customers, complete backups are done daily to assure that data remains available when it needed and in case of a disaster.
 
 Violation of this policy and its procedures by workforce members may result in corrective disciplinary action, up to and including termination of employment.
 
 ## 6.1 Applicable Standards
 
-### 6.1.1 Applicable Standards from the HITRUST Common Security Framework
-
-* 01.v - Information Access Restriction
-
-### 6.1.2 Applicable Standards from the HIPAA Security Rule
+### 6.1.1 Applicable Standards from the HIPAA Security Rule
 
 * 164.308(a)(7)(ii)(A) - Data Backup Plan
 * 164.310(d)(2)(iii) - Accountability
@@ -20,8 +16,8 @@ Violation of this policy and its procedures by workforce members may result in c
 
 ## 6.2 Backup Policy and Procedures
 
-1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for Datica Customers, including PaaS Customers that utilize the Datica Backup Service.
-2. The Datica Ops Team is designated to be in charge of backups.
+1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for Textractor Customers.
+2. The Textractor Ops Team is designated to be in charge of backups.
 3. Dev Ops Team members are trained and assigned to complete backups and manage the backup media.
 4. Document backups
    * Name of the system
